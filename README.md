@@ -5,12 +5,9 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
 ## Features
 - Menjalankan end to end testing secara otomatis
 - Menjalankan test positif dan negatif
-
 
 ## Tech
 - [VScode] - Visual Studio Code adalah editor source code yang ringan, gratis, dan open source, yang dikembangkan oleh Microsoft. Alat ini biasanya digunakan untuk pengembangan web, tetapi mendukung banyak bahasa pemrograman dan memiliki berbagai extension yang tersedia.
